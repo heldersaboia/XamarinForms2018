@@ -10,6 +10,8 @@
         <Button Text="Buscar CEP" TextColor="#FFFFFF" BackgroundColor="#00416B" x:Name="BOTAO"/>
 
         <Label Text="" x:Name="RESULTADO"
+           FontSize="Medium"
+           TextColor="DarkBlue"
            HorizontalOptions="Center"
            VerticalOptions="Center" />
     </StackLayout>
